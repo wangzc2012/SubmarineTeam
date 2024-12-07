@@ -33,7 +33,7 @@ export default defineConfig({
       },
     },
     footer: {
-      copyright: "此网站由 wangzc2012 开发，TzzlStudio 大力支持",
+      copyright: "此网站由 wangzc2012 开发，感谢 TzzlStudio 大力支持",
     },
 
   }
