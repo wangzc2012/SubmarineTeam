@@ -37,7 +37,7 @@
 <p></p>
 
 
-<button style="background-color: #e9e9e9; height: 165px; border-radius: 30px; color: black; padding: 25px 25px; text-align: left; text-decoration: none; display: inline-block; font-size: 16px; margin: 11px; cursor: pointer;">
+<button style="background-color: #e9e9e9; height: 165px; border-radius: 30px; color: black; padding: 25px 25px; text-align: left; text-decoration: none; display: inline-block; font-size: 16px; margin: 15px; cursor: pointer;">
     <b>专注知识共享</b> 
     <font color=#3f3f3f> 
         <br> 在潜水艇团队官方网站，我们相信知 <br> 识的力量。通过精心整理的文档，您 <br> 可以轻松获取团队的最新动态和技术 <br> 分享，相信这会对您有所帮助。
@@ -45,21 +45,21 @@
 
 </button>
 
-<button style="background-color: #e9e9e9; height: 165px; border-radius: 30px; color: black; padding: 25px 25px; text-align: left; text-decoration: none; display: inline-block; font-size: 16px; margin: 11px; cursor: pointer;">
+<button style="background-color: #e9e9e9; height: 165px; border-radius: 30px; color: black; padding: 25px 25px; text-align: left; text-decoration: none; display: inline-block; font-size: 16px; margin: 15px; cursor: pointer;">
     <b>开源共享，共同进步</b> 
     <font color=#3f3f3f> 
         <br> 我们鼓励开源精神，这意味着您可以 <br> 自由地使用、修改和分享这些资源， <br> 共同使用网站的工具，学习信息学相 <br> 关知识。
     </font>
 </button>
 
-<button style="background-color: #e9e9e9; height: 165px; border-radius: 30px; color: black; padding: 25px 25px; text-align: left; text-decoration: none; display: inline-block; font-size: 16px; margin: 11px; cursor: pointer;">
+<button style="background-color: #e9e9e9; height: 165px; border-radius: 30px; color: black; padding: 25px 25px; text-align: left; text-decoration: none; display: inline-block; font-size: 16px; margin: 15px; cursor: pointer;">
     <b>探索潜水艇团队官方网站</b> 
     <font color=#3f3f3f> 
         <br> 在这里，我们为您提供丰富的资源、 <br> 工具和空间，帮助您深入了解潜水艇 <br> 团队的各个方面，以便于更好地融入 <br> 团队。
     </font>
 </button>
 
-<button style="background-color: #e9e9e9; height: 165px; border-radius: 30px; color: black; padding: 25px 25px; text-align: left; text-decoration: none; display: inline-block; font-size: 16px; margin: 11px; cursor: pointer;">
+<button style="background-color: #e9e9e9; height: 165px; border-radius: 30px; color: black; padding: 25px 25px; text-align: left; text-decoration: none; display: inline-block; font-size: 16px; margin: 15px; cursor: pointer;">
     <b>加入我们，共创辉煌</b> 
     <font color=#3f3f3f> 
         <br> 潜水艇团队全称“潜水艇，水挺浅” ， <br> 是一个充满活力和创新精神的集体。 <br> 我们诚邀您的加入，一起探索未知，<br> 共同学习进步。  
