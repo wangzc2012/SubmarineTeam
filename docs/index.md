@@ -27,9 +27,6 @@
     <button style="background-color: #e9e9e9; border-radius: 50px; color: black; padding: 7px 25px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 8px; cursor: pointer;">潜水艇团队</button>
 </a>
 
-<a href="https://www.baidu.com" target="_blank">
-    <button style="background-color: #e9e9e9; border-radius: 50px; color: black; padding: 7px 25px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 8px; cursor: pointer;">关于我们</button>
-</a>
 <p></p>
 
 
