@@ -19,7 +19,7 @@
 
 
 <p></p>
-<a href="/home" target="_blank">
+<a href="/home.md" target="_blank">
     <button style="background-color: #4169E1; border-radius: 50px; color: white; padding: 7px 25px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 8px; cursor: pointer;">潜水艇资源站主页</button>
 </a>
 
