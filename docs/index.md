@@ -1,3 +1,10 @@
+<style>
+  button {
+    box-shadow: 7px 7px 11px rgba(0, 0, 0, 0.3);
+  }
+</style>
+
+
 <font color="#0C93FC" size="36" style="font-weight: bold;">S</font>
 <font color="#188DF9" size="36" style="font-weight: bold;">u</font>
 <font color="#2487F6" size="36" style="font-weight: bold;">b</font>
