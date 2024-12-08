@@ -46,7 +46,7 @@
 <p></p>
 <font face="黑体" size=10>潜水艇团队官方网站</font>  
 <p></p>
-<font face="黑体"  color="gray" size=6>欢迎加入潜水艇团队</font>
+<font face="黑体"  color="gray" size=6>潜水艇终有一天将会浮出水面！</font>
 
 
 <p></p>

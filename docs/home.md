@@ -1,19 +1,3 @@
-<style>
-body {
-    margin: 0;
-    padding: 0;
-    /* 设置背景颜色为深蓝色 */
-    background-color: #000033;
-    /* 设置背景图像为水波动画的图片，这里假设你有一张名为water-wave.gif的动图，也可以用CSS动画生成类似效果 */
-    background-image: url('/water.gif');
-    /* 设置背景图像不重复铺满整个页面 */
-    background-repeat: repeat;
-    /* 设置背景图像的位置为从页面左上角开始 */
-    background-position: top left;
-    /* 设置背景图像固定，不随页面滚动而滚动，可根据需求改为scroll等其他值 */
-    background-attachment: fixed;
-}
-</style>
 <font color="#0C93FC" size="36" style="font-weight: bold;">S</font>
 <font color="#188DF9" size="36" style="font-weight: bold;">u</font>
 <font color="#2487F6" size="36" style="font-weight: bold;">b</font>
@@ -30,4 +14,27 @@ body {
 <p></p>
 
 # 主页 
+## 最新动态（Latest News）
+::: info 最新动态
 
+:::
+
+## 项目展示区（Project Showcase）
+::: info 项目展示
+
+:::
+
+## 技术分享区（Technical Sharing）
+::: info 技术分享
+
+:::
+
+## 答疑交流区（Q&A Community）
+::: info 答疑交流
+
+:::
+
+## 加入我们（Join Us）
+::: info 加入我们
+潜水艇团队欢迎您的加入！
+:::
