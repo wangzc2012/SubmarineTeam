@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 潜水艇团队官方网站主页
-      link: https://submarineteam.netlify.app/home
+      link: /home
     - theme: alt
       text: 潜水艇团队
       link: https://www.luogu.com.cn/team/78082
