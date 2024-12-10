@@ -7,7 +7,7 @@ hero:
   tagline: 潜水艇终有一天将会浮出水面！
   image:
     src: /潜水艇.svg
-    alt: VitePress
+    alt: 潜水艇团队 LOGO
   actions:
     - theme: brand
       text: 潜水艇团队官方网站主页

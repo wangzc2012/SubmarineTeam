@@ -7,14 +7,14 @@ hero:
   tagline: 潜水艇终有一天将会浮出水面！
   image:
     src: /潜水艇.svg
-    alt: VitePress
+    alt: VitePress潜水艇团队 LOGO
 ---
 
 
 ## 最新动态（Latest News）
 ::: info 最新动态
 [abc384](https://atcoder.jp/contests/abc384)  
-[CF993(Div.4)](https://codeforces.com/contests/2044)
+[CF993(Div.4)](https://codeforces.com/contests/2044)  
 :::
 
 ## 项目展示区（Project Showcase）
@@ -45,5 +45,5 @@ hero:
 ## 加入我们（Join Us）
 ::: info 加入我们
 [潜水艇团队](https://www.luogu.com.cn/team/78082)欢迎您的加入！  
-QQ群号：753265027
+QQ 群号：753265027
 :::
