@@ -44,6 +44,6 @@ hero:
 
 ## 加入我们（Join Us）
 ::: info 加入我们
-[潜水艇团队](https://www.luogu.com.cn/team/78082)欢迎您的加入！  
+[潜水艇团队](https://www.luogu.com.cn/team/78082)诚邀您的加入！  
 QQ 群号：753265027
 :::
