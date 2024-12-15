@@ -25,7 +25,7 @@ hero:
 [cookie](/cookie.crx)  ——Fish_redflying  
 [Documents](/Documents.zip)  ——Fish_redflying  
 [提取图标](/提取图标.exe)  ——Fish_redflying  
-[(((o(_°▽°_)o)))](/Happy.py)  ——Fish_redflying  
+[Happy](/Happy.py)  ——Fish_redflying  
 [TzzlStudio Site](https://tzzl.site/)  ——tzzl3035
 :::
 
