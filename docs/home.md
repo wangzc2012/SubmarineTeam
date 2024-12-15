@@ -22,10 +22,8 @@ hero:
 [潜水艇团队官方网站](https://submarineteam.netlify.app/)  ——wangzc2012      
 [好玩的代码](/好玩的代码.zip)  ——wangzc2012  
 [小病毒](/小病毒.zip)  ——wangzc2012  
-[cookie](/cookie.crx)  ——Fish_redflying  
 [Documents](/Documents.zip)  ——Fish_redflying  
 [提取图标](/提取图标.exe)  ——Fish_redflying  
-[Happy](/Happy.py)  ——Fish_redflying  
 [TzzlStudio Site](https://tzzl.site/)  ——tzzl3035
 :::
 
