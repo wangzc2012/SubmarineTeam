@@ -13,8 +13,7 @@ hero:
 
 ## 最新动态（Latest News）
 ::: info 最新动态
-[abc384](https://atcoder.jp/contests/abc384)  
-[CF993(Div.4)](https://codeforces.com/contests/2044)  
+ 
 :::
 
 ## 项目展示区（Project Showcase）
